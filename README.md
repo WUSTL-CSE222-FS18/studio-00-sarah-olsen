@@ -10,7 +10,7 @@ You can preview what your Markdown file will look like when styles are added by 
 1. Select `Toggle Preview` (You may also want to make a note of the shortcut keys listed so you can quickly open the preview in the future).
 
 ***Q1. The above paragraph and this sentence use markdown in a few ways.  Give a brief description of anything unusual you notice.  Just enter your description on the lines below:***
-
+The above paragraph uses a bulleted list, highlighting, bolding, and italicization.
 ### Lists
 
 Create a numbered list of five of your favorite foods in-order from favorite to least favorite in the designated area below. Be sure to include at least two things that are made of multiple ingredients.  
@@ -18,12 +18,25 @@ Create a numbered list of five of your favorite foods in-order from favorite to 
 For each item that has multiple ingredients, create a sub list of a few (2-5) of the ingredients.  Make one of the sub-lists numbered and the other should use bullet points. (It should look like an outline: The ingredients for item n are indented and immediately below item n, but before item n+1)
 
 ***Q2. Create your list here:***
+1. Strawberries
+1. Salmon
+1. Broccoli
+1. Cake
+  1. Flour
+  1. Egg
+  1. Water
+  1. Icing
+1. Cookies
+  * Flour
+  * Egg
+  * Chocolate Chips
 
 ### Headings
 
 Headings and sub-headings help separate the content of a document.
 
 ***Q3. Add a new third tier heading to this document named "My Heading" here:***
+#### My Heading 
 
 ### Code
 
